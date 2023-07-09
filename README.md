@@ -26,6 +26,15 @@
 </div>
 
 <details>
+<summary>Char Length</summary>
+
+| # | Problem | Solution | Difficulty | Status | Tags |
+| --- | --- | --- | --- | --- | --- |
+| 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | [MySQL](link) | Easy | Solved | Char Length |
+
+</details>
+
+<details>
 <summary>Delete</summary>
 
 | # | Problem | Solution | Difficulty | Status | Tags |
