@@ -35,6 +35,15 @@
 </details>
 
 <details>
+<summary>Datediff</summary>
+
+| # | Problem | Solution | Difficulty | Status | Tags |
+| --- | --- | --- | --- | --- | --- |
+| 0197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [MySQL](link) | Easy | Solved | Left Join, Datediff, Where |
+
+</details>
+
+<details>
 <summary>Delete</summary>
 
 | # | Problem | Solution | Difficulty | Status | Tags |
