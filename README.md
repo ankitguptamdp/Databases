@@ -57,7 +57,7 @@
 
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
-| 0584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/Is%20Null/0584%20-%20Find%20Customer%20Referee) | Easy | Solved | Is Null |
+| 0584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/Is%20Null/0584%20-%20Find%20Customer%20Referee.sql) | Easy | Solved | Is Null |
 
 </details>
 
