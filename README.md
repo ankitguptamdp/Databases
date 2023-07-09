@@ -39,7 +39,7 @@
 
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
-| 0197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [MySQL](link) | Easy | Solved | Left Join, Datediff, Where |
+| 0197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/Datediff/0197%20-%20Rising%20Temperature.sql) | Easy | Solved | Left Join, Datediff, Where |
 
 </details>
 
