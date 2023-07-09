@@ -79,6 +79,14 @@
 
 </details>
 
+<details>
+<summary>Join</summary>
+
+| # | Problem | Solution | Difficulty | Status | Tags |
+| --- | --- | --- | --- | --- | --- |
+| 1661 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | [MySQL](link) | Easy | Solved | Is Null |
+
+</details>
 
 <details>
 <summary>Left Join</summary>
