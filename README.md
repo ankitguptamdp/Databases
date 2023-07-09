@@ -77,6 +77,7 @@
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
 | 0175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/Left%20Join/0175%20-%20Combine%20Two%20Tables.sql) | Easy | Solved | Left Join |
+| 1068 | [Product Sales Analysis I]https://leetcode.com/problems/product-sales-analysis-i/) | [MySQL](link) | Easy | Solved | Left Join |
 | 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/Left%20Join/1378%20-%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.sql) | Easy | Solved | Left Join |
 
 </details>
