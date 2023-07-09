@@ -67,6 +67,6 @@
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
 | 0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/Where/0181%20-%20Employees%20Earning%20More%20Than%20Their%20Managers.sql) | Easy | Solved | Where |
-
+| 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [MySQL](link) | Easy | Solved | Select, Where |
 </details>
 
