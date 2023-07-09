@@ -30,7 +30,7 @@
 
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
-| 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | [MySQL](link) | Easy | Solved | Char Length |
+| 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/Char_Length/1683%20-%20Invalid%20Tweets.sql) | Easy | Solved | Char Length |
 
 </details>
 
