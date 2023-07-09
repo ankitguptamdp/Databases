@@ -78,7 +78,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/Where/0181%20-%20Employees%20Earning%20More%20Than%20Their%20Managers.sql) | Easy | Solved | Where |
 | 0595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/Where/0595%20-%20Big%20Countries.sql) | Easy | Solved | Where, Or |
-| 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | [MySQL](link) | Easy | Solved | Distinct, Where, Order By |
+| 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/Where/1148%20-%20Article%20Views%20I.sql) | Easy | Solved | Distinct, Where, Order By |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/Where/1757%20-%20Recyclable%20and%20Low%20Fat%20Products.sql) | Easy | Solved | Select, Where |
 
 </details>
