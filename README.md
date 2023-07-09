@@ -26,6 +26,15 @@
 </div>
 
 <details>
+<summary>Delete</summary>
+
+| # | Problem | Solution | Difficulty | Status | Tags |
+| --- | --- | --- | --- | --- | --- |
+| 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [MySQL](link) | Easy | Solved | Delete, Where |
+
+</details>
+
+<details>
 <summary>Group By</summary>
 
 | # | Problem | Solution | Difficulty | Status | Tags |
