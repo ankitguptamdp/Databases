@@ -30,7 +30,7 @@
 
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
-| 0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [Python3](link) | Easy | Solved | Group By |
+| 0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/Group%20By/0182%20-%20Duplicate%20Emails.sql) | Easy | Solved | Group By |
 
 </details>
 
@@ -39,7 +39,7 @@
 
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
-| 0183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [Python3](link) | Easy | Solved | In |
+| 0183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/In/0183%20-%20Customers%20Who%20Never%20Order.sql) | Easy | Solved | In |
 
 </details>
 
@@ -48,7 +48,7 @@
 
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
-| 0175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [Python3](link) | Easy | Solved | Left Join |
+| 0175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/Left%20Join/0175%20-%20Combine%20Two%20Tables.sql) | Easy | Solved | Left Join |
 
 </details>
 
@@ -57,7 +57,7 @@
 
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
-| 0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [Python3](link) | Easy | Solved | Where |
+| 0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/Where/0181%20-%20Employees%20Earning%20More%20Than%20Their%20Managers.sql) | Easy | Solved | Where |
 
 </details>
 
