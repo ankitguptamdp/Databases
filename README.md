@@ -59,8 +59,10 @@
 | --- | --- | --- | --- | --- | --- |
 | 0584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [MySQL](link) | Easy | Solved | Is Null |
 
-<details>
+</details>
 
+
+<details>
 <summary>Left Join</summary>
 
 | # | Problem | Solution | Difficulty | Status | Tags |
