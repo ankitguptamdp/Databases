@@ -84,7 +84,7 @@
 
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
-| 1661 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | [MySQL](link) | Easy | Solved | Is Null |
+| 1661 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/Join/1661%20-%20Average%20Time%20of%20Process%20per%20Machine.sql) | Easy | Solved | Round, Avg, Join, Where, Group By |
 
 </details>
 
