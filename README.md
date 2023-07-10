@@ -30,7 +30,7 @@
 
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
-| 1211 | [1211. Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | [MySQL](link) | Easy | Solved | Round, Avg, Group By |
+| 1211 | [1211. Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/Avg/1211%20-%20Queries%20Quality%20and%20Percentage.sql) | Easy | Solved | Round, Avg, Group By |
 
 </details>
 
