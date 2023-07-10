@@ -109,7 +109,7 @@
 
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
-| 0620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [MySQL](link) | Easy | Solved | Order By,  |
+| 0620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/Order%20By/0620%20-%20Not%20Boring%20Movies.sql) | Easy | Solved | Order By, \%, !=  |
 
 </details>
 
