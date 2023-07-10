@@ -30,7 +30,7 @@
 
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
-| 1211 | [1211. Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/Avg/1211%20-%20Queries%20Quality%20and%20Percentage.sql) | Easy | Solved | Round, Avg, Group By |
+| 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/Avg/1211%20-%20Queries%20Quality%20and%20Percentage.sql) | Easy | Solved | Round, Avg, Group By |
 
 </details>
 
@@ -144,11 +144,20 @@
 </details>
 
 <details>
+<summary>Limit</summary>
+
+| # | Problem | Solution | Difficulty | Status | Tags |
+| --- | --- | --- | --- | --- | --- |
+| 0176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [MySQL](link) | Medium | Solved | Distinct, Order By, Desc, Limit, Offset |
+
+</details>
+
+<details>
 <summary>Order By</summary>
 
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
-| 0620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/Order%20By/0620%20-%20Not%20Boring%20Movies.sql) | Easy | Solved | Order By, \%, !=  |
+| 0620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/Order%20By/0620%20-%20Not%20Boring%20Movies.sql) | Easy | Solved | Order By, \%, != |
 
 </details>
 
