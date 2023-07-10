@@ -48,7 +48,7 @@
 
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
-| 1729 | [Find Followers Count](https://leetcode.com/problems/find-followers-count/) | [MySQL](link) | Easy | Solved | Count, Group By, Order By |
+| 1729 | [Find Followers Count](https://leetcode.com/problems/find-followers-count/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/Count/1729%20-%20Find%20Followers%20Count.sql) | Easy | Solved | Count, Group By, Order By |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/Count/2356%20-%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher.sql) | Easy | Solved | Count, Distinct, Group By |
 
 </details>
