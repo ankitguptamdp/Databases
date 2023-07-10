@@ -85,7 +85,7 @@
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
 | 0570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/Join/0570%20-%20Managers%20with%20at%20Least%205%20Direct%20Reports.sql) | Medium | Solved | Join, Temporary Table, Group By, Having, Count |
-| 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i/) | [MySQL](link) | Easy | Solved | Round, Avg, Join, Group By |
+| 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/Join/1075%20-%20Project%20Employees%20I.sql) | Easy | Solved | Round, Avg, Join, Group By |
 | 1661 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/Join/1661%20-%20Average%20Time%20of%20Process%20per%20Machine.sql) | Easy | Solved | Round, Avg, Join, Where, Group By |
 
 </details>
