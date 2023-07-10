@@ -114,6 +114,15 @@
 </details>
 
 <details>
+<summary>Sum</summary>
+
+| # | Problem | Solution | Difficulty | Status | Tags |
+| --- | --- | --- | --- | --- | --- |
+| 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price/) | [MySQL](link) | Easy | Solved | Round, Sum, Between, Group By |
+
+</details>
+
+<details>
 <summary>Where</summary>
 
 | # | Problem | Solution | Difficulty | Status | Tags |
