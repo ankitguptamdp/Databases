@@ -35,6 +35,15 @@
 </details>
 
 <details>
+<summary>Case</summary>
+
+| # | Problem | Solution | Difficulty | Status | Tags |
+| --- | --- | --- | --- | --- | --- |
+| 0610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | [MySQL](link) | Easy | Solved | Case, When, Then, Else, End |
+
+</details>
+
+<details>
 <summary>Char Length</summary>
 
 | # | Problem | Solution | Difficulty | Status | Tags |
