@@ -39,7 +39,7 @@
 
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
-| 0610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | [MySQL](link) | Easy | Solved | Case, When, Then, Else, End |
+| 0610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/Case/0610%20-%20Triangle%20Judgement.sql) | Easy | Solved | Case, When, Then, Else, End |
 
 </details>
 
