@@ -26,6 +26,15 @@
 </div>
 
 <details>
+<summary>Avg</summary>
+
+| # | Problem | Solution | Difficulty | Status | Tags |
+| --- | --- | --- | --- | --- | --- |
+| 1211 | [1211. Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | [MySQL](link) | Easy | Solved | Round, Avg, Group By |
+
+</details>
+
+<details>
 <summary>Char Length</summary>
 
 | # | Problem | Solution | Difficulty | Status | Tags |
