@@ -162,6 +162,15 @@
 </details>
 
 <details>
+<summary>Regexp_Like</summary>
+
+| # | Problem | Solution | Difficulty | Status | Tags |
+| --- | --- | --- | --- | --- | --- |
+| 1517 | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/) | [MySQL](link) | Easy | Solved | Regexp_Like |
+
+</details>
+
+<details>
 <summary>String Functions</summary>
 
 | # | Problem | Solution | Difficulty | Status | Tags |
