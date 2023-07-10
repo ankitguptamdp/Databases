@@ -129,7 +129,7 @@
 
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
-| 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | [MySQL](Link) | Easy | Solved | Concat, Upper, Substring, Lower, Order By |
+| 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/String%20Functions/1667%20-%20Fix%20Names%20in%20a%20Table.sql) | Easy | Solved | Concat, Upper, Substring, Lower, Order By |
 
 </details>
 
