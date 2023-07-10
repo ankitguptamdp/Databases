@@ -102,6 +102,14 @@
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/Left%20Join/1581%20-%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions.sql) | Easy | Solved | Left Join |
 | 1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/Left%20Join/1934%20-%20Confirmation%20Rate.sql) | Medium | Solved | Round, Avg, If,Left Join, Group By |
 
+</details>
+
+<details>
+<summary>Order By</summary>
+
+| # | Problem | Solution | Difficulty | Status | Tags |
+| --- | --- | --- | --- | --- | --- |
+| 0620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [MySQL](link) | Easy | Solved | Order By,  |
 
 </details>
 
