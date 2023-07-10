@@ -125,6 +125,15 @@
 </details>
 
 <details>
+<summary>String Functions</summary>
+
+| # | Problem | Solution | Difficulty | Status | Tags |
+| --- | --- | --- | --- | --- | --- |
+| 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | [MySQL](Link) | Easy | Solved | Concat, Upper, Substring, Lower, Order By |
+
+</details>
+
+<details>
 <summary>Subquery</summary>
 
 | # | Problem | Solution | Difficulty | Status | Tags |
