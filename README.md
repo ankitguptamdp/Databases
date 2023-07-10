@@ -118,7 +118,7 @@
 
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
-| 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price/) | [MySQL](link) | Easy | Solved | Round, Sum, Between, Group By |
+| 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/Sum/1251%20-%20Average%20Selling%20Price.sql) | Easy | Solved | Round, Sum, Between, Group By |
 
 </details>
 
