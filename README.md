@@ -157,6 +157,7 @@
 
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
+| 0619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | [MySQL](link) | Easy | Solved | Max, Subquery, Group By, Having, Count |
 | 1633 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/Subquery/1633%20-%20Percentage%20of%20Users%20Attended%20a%20Contest.sql) | Easy | Solved | Round, Count, Subquery, Group By, Order By, Desc |
 
 </details>
