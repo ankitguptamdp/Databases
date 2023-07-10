@@ -104,6 +104,7 @@
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
 | 0183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/In/0183%20-%20Customers%20Who%20Never%20Order.sql) | Easy | Solved | In |
+| 1978 | [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/) | [MySQL](link) | Easy | Solved | Not In, Order By |
 
 </details>
 
