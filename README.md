@@ -166,7 +166,7 @@
 
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
-| 1517 | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/) | [MySQL](link) | Easy | Solved | Regexp_Like |
+| 1517 | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/Regexp_Like/1517%20-%20Find%20Users%20With%20Valid%20E-Mails.sql) | Easy | Solved | Regexp_Like |
 
 </details>
 
