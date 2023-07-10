@@ -119,7 +119,7 @@
 
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
-| 1633 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | [MySQL](link) | Easy | Solved | Round, Count, Subquery, Group By, Order By, Desc |
+| 1633 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/Subquery/1633%20-%20Percentage%20of%20Users%20Attended%20a%20Contest.sql) | Easy | Solved | Round, Count, Subquery, Group By, Order By, Desc |
 
 </details>
 
