@@ -80,6 +80,15 @@
 </details>
 
 <details>
+<summary>Having</summary>
+
+| # | Problem | Solution | Difficulty | Status | Tags |
+| --- | --- | --- | --- | --- | --- |
+| 0596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [MySQL](link) | Easy | Solved | Group By, Having, Count |
+
+</details>
+
+<details>
 <summary>In</summary>
 
 | # | Problem | Solution | Difficulty | Status | Tags |
