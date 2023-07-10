@@ -148,7 +148,7 @@
 
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
-| 0176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [MySQL](link) | Medium | Solved | Distinct, Order By, Desc, Limit, Offset |
+| 0176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/Limit/0176%20-%20Second%20Highest%20Salary.sql) | Medium | Solved | Distinct, Order By, Desc, Limit, Offset |
 
 </details>
 
