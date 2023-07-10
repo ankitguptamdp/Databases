@@ -44,6 +44,15 @@
 </details>
 
 <details>
+<summary>Count</summary>
+
+| # | Problem | Solution | Difficulty | Status | Tags |
+| --- | --- | --- | --- | --- | --- |
+| 2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | [MySQL](link) | Easy | Solved | Count, Distinct, Group By |
+
+</details>
+
+<details>
 <summary>Datediff</summary>
 
 | # | Problem | Solution | Difficulty | Status | Tags |
