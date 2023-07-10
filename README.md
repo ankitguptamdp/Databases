@@ -84,7 +84,7 @@
 
 | # | Problem | Solution | Difficulty | Status | Tags |
 | --- | --- | --- | --- | --- | --- |
-| 0596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [MySQL](link) | Easy | Solved | Group By, Having, Count |
+| 0596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [MySQL](https://github.com/ankitguptamdp/Databases/blob/main/Codes/Having/0596%20-%20Classes%20More%20Than%205%20Students.sql) | Easy | Solved | Group By, Having, Count |
 
 </details>
 
